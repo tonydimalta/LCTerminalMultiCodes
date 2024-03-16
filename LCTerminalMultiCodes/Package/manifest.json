@@ -1,0 +1,9 @@
+{
+    "name": "LCTerminalMultiCodes",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/tonydimalta/LCTerminalMultiCodes/",
+    "description": "Makes the terminal support entering multiple codes at once (for turrets, landmines and big doors). Especially useful when playing mods like Brutal Company Plus and when turrets spawn together.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
